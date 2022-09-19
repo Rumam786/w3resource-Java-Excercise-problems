@@ -1,4 +1,4 @@
-// Write a Java program to input and display your password. Go to the editor
+// Write a Java program to input and display your password.
 // Expected Output
 
 // Input your Password:                                                    

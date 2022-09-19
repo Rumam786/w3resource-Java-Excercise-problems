@@ -1,9 +1,6 @@
 // Write a Java program to reverse a string.
 
 
-// Write Program to reverse a string.
-
-
 
 import java.util.Scanner;
 class problem23 {

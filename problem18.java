@@ -3,12 +3,9 @@
 // Input first integer: 25
 // Input second integer: 39
 // Expected Output
-
 // 25 != 39                                                                          
 // 25 < 39                                                                           
 // 25 <= 39
-
-
 import java.util.Scanner;
 class problem18 {
     public static void main(String[] args) {
