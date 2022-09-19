@@ -1,4 +1,3 @@
-
 // Write a Java program to calculate the sum of two integers and return true if the sum is equal to a third integer.
 
 
