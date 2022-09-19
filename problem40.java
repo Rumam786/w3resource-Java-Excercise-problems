@@ -5,8 +5,8 @@
 
 class problem40 {
     public static void main(String[] args) {
-        String name = "Python 3.0";
-        String name2 = "Tutorial";
-        System.out.println(name+" "+name2);
+        StringBuilder sb = new StringBuilder("Python 3.0");
+        sb.insert(7,"Tutorial ");
+        System.out.println(sb);
     }
 }

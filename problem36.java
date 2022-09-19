@@ -13,5 +13,3 @@ class problem36 {
         System.out.println("Penultimate word is : "+words[words.length -2]);
     }
 }
-
-
